@@ -2,7 +2,7 @@
 This is a website penetration testing tool for testing webdav server vulnerabilities.
 
 
-![White DAV](https://github.com/WH1T3-E4GL3/white-dav/assets/118425907/f9c3ae42-1853-43fe-95f5-d312b113c716)
+![White DAV](https://github.com/whxitte/white-dav/assets/118425907/f9c3ae42-1853-43fe-95f5-d312b113c716)
 
 
 ## Author
@@ -16,7 +16,7 @@ This is a website penetration testing tool for testing webdav server vulnerabili
     $ apt install python -y
     $ pip2 install requests
     $ pip install requests
-    $ git clone https://github.com/WH1T3-E4GL3/white-dav.git
+    $ git clone https://github.com/whxitte/white-dav.git
     $ cd white-dav
     $ git pull
     $ python white-dav.py
